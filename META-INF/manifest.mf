@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+
+Name: content.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Fr26N5dgFK9T5idLz+J4nQ==
+SHA1-Digest: tyMYfyKuxzNnFkaiJLofjtc2QaI=
+SHA256-Digest: tzVZkSWiwrmCXbqDnrdJmr7UqGTIxrRy87EAFqoJZT4=
+
+Name: content.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: exPOse5TajOXcFwGUz3NZw==
+SHA1-Digest: /ekxrx/vcXGZ4cOxTCtf8lCepYM=
+SHA256-Digest: oPRNjXY+KksbNVU3kk+w9e0TmQ1rC6WxnFrXQKRVoRk=
+
+Name: jquery-3.3.1.min.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: oJ4T7pTVHFJLfipyjH1AOQ==
+SHA1-Digest: DcMttKqcXwPzs4xH2IPb1P7ROq4=
+SHA256-Digest: FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: RF7RmnUpnr3c3NCOn+sZEg==
+SHA1-Digest: ke6ptdMY/Qb6PwC4QIcIrxDvVNI=
+SHA256-Digest: xH1TUeQ/83tsORAqBrHyFpsgJD/ouCnhrwM1LyDXv1w=
+
+Name: spacebar.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: sHkoivnbdefdHBMxl900Jg==
+SHA1-Digest: Di9jwi0b+TOFKvbgYXjrz6jUiw8=
+SHA256-Digest: m8jpWXRYJBiQGAMsrdIAcIN+HIyaJEmJeplH0RRTnk4=
+
+Name: video-speed.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5AicCb6vDs8oH9S5PPZsMA==
+SHA1-Digest: bWFKhv2uRKIy1OWuBi7zVNZ6ZlI=
+SHA256-Digest: 9qAmORAhNPgUXmVR5cIcJ4dpPgTyi0a/0FsXRFa/Sdg=
+
+Name: logos/icon-128.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: M2F5S+r5Buu5GBL1xFRvkA==
+SHA1-Digest: ZjJ/5nNuMyfLsMmRMzuq4i2mDYk=
+SHA256-Digest: p7b+ZLZdYwMbJTaZANhfvnptrLO83AKRBpkHGDzCk7M=
+
+Name: logos/icon-16.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: jYlCCuLbviOwXcxVa9lrOQ==
+SHA1-Digest: uDDxNB6BoN/1EmXJTWT5t4o322Q=
+SHA256-Digest: k6RUH4WUL6NzuvnTGCucjMvI/Zbfa5nT/0ZzCpzorT8=
+
+Name: logos/icon-32.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: CwQmCwdMH6G2gt0u1cNZyw==
+SHA1-Digest: XghTsEo5wRs9LkjIEenEaszef0k=
+SHA256-Digest: uIiAwiQjmWwLlheDlu0ylf2yxswdA6jvuER4XSEAIik=
+
+Name: logos/icon-48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Am/11+Ug7cxE2XRn/SRGsw==
+SHA1-Digest: V+mxIRoUSRE4G2GBTFivbm5zJZE=
+SHA256-Digest: WyF+uXKjpzcdTrXB5/ozqVi1+B02gj3aSaCaAt6KfKY=
+
+Name: logos/icon-64.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: l2DGaKHcsyS0XJ+s1SpR0w==
+SHA1-Digest: qzaqs4EvZqfF+b2Lg8VUmvQxAaM=
+SHA256-Digest: yrmw52lhhlCV7F3qfD+DJNjVUnDq4d56MFM+7J3dveQ=
+
